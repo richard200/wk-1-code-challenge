@@ -1,0 +1,22 @@
+{
+  "name": "wk-1-code-challenge",
+  "version": "1.0.0",
+  "description": "code-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richard200/wk-1-code-challenge.git"
+  },
+  "keywords": [
+    "challenge"
+  ],
+  "author": "Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richard200/wk-1-code-challenge/issues"
+  },
+  "homepage": "https://github.com/richard200/wk-1-code-challenge#readme"
+}
